@@ -7,7 +7,7 @@
 
 ## Structure
 - Model: จัดการข้อมูลข่าวลือ รายงาน และการตรวจสอบ
-- View: GUI (Tkinter)
+- View: UI
 - Controller: ควบคุมการทำงาน
 
 ## How to run
